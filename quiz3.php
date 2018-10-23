@@ -10,8 +10,6 @@ if ($temp <= 20){
     echo "It's so hot";
 }else if ($temp >= 40) {
     echo "Am I in Sahara Desert?!";
-}else {
-    echo "Terrible weather";
 }
 
 
